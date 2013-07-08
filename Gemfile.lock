@@ -7,9 +7,9 @@ GIT
 
 GIT
   remote: git://github.com/rkh/gh
-  revision: 6eec1a730700d7e94bb288742ad23822d2d28604
+  revision: 7c2ac042edfa9c27717344108929f2175e2126da
   specs:
-    gh (0.11.2)
+    gh (0.11.3)
       addressable
       backports
       faraday (~> 0.8)
@@ -27,7 +27,8 @@ GIT
 
 GIT
   remote: git://github.com/travis-ci/travis-core
-  revision: 774a84cb6ac807e031f78bf4542cd39fc7cf5bc9
+  revision: 2d32cabca24fbc245794367d6a26b329a1a64352
+  branch: hh-update-user-when-renamed
   specs:
     travis-core (0.0.1)
       actionmailer (~> 3.2.12)
@@ -203,7 +204,7 @@ GEM
       treetop (~> 1.4.8)
     metaclass (0.0.1)
     method_source (0.8.1)
-    metriks (0.9.9.4)
+    metriks (0.9.9.5)
       atomic (~> 1.0)
       avl_tree (~> 1.1.2)
       hitimes (~> 1.1)
