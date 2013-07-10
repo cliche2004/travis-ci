@@ -27,7 +27,7 @@ GIT
 
 GIT
   remote: git://github.com/travis-ci/travis-core
-  revision: 2d32cabca24fbc245794367d6a26b329a1a64352
+  revision: 3573cb05d1c00b7d8eb34806efce33ac55041d73
   branch: hh-update-user-when-renamed
   specs:
     travis-core (0.0.1)
