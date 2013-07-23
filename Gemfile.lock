@@ -7,7 +7,7 @@ GIT
 
 GIT
   remote: git://github.com/rkh/gh
-  revision: 7c2ac042edfa9c27717344108929f2175e2126da
+  revision: 72a749ca4e4cadf4cf7c8881d1e028b3e47654e3
   specs:
     gh (0.11.3)
       addressable
@@ -27,7 +27,7 @@ GIT
 
 GIT
   remote: git://github.com/travis-ci/travis-core
-  revision: 3573cb05d1c00b7d8eb34806efce33ac55041d73
+  revision: 0a194c97c857a39c03a5a02eec283e751099d402
   branch: hh-update-user-when-renamed
   specs:
     travis-core (0.0.1)
